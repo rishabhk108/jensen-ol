@@ -1,4 +1,5 @@
-# Jensen-OL is built on top of Jensen (available here: https://github.com/rishabhk108/jensen)
+# Jensen-OL 
+Jensen-OL is built on top of Jensen (available here: https://github.com/rishabhk108/jensen)
 
 ## Improvements
 Jensen-OL includes support for Online Learning for Logistic Regression. Currently there are two algorithms implemented. One is the Early Stopping algorithm (ES) and another is Proximal Scheme (Prox). Please onlinelearning/OLexample.cc for an example of this.
